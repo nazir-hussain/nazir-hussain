@@ -97,7 +97,7 @@
 
 <details>
 <summary>
-  More stuff about me
+  <b>More stuff about me</b>
 </summary>
 
  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why Hack and Code Youtube Channel exists!
