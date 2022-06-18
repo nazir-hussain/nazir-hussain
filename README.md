@@ -66,7 +66,7 @@
 <code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
  
 
-### Languages & Tools 🛠 
+## Languages & Tools 🛠 
  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -129,7 +129,7 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 </p>
 <!--END_SECTION:waka--> 
 
-### Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
+## Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
