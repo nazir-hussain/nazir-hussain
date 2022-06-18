@@ -38,7 +38,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
 
-### Connect with me: <img src="https://github.com/nazir-hussain/nazir-hussain/blob/master/icon/Handshake.gif" height="32px">
+### Connect with me: <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Handshake.gif" height="32px">
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/thenazirhussain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -48,11 +48,11 @@
 <a href = "https://twitter.com/Bugra_2426"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
  
 <br />
- 
+<!--  
  | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/master/icon/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain
 /blob/master/icon/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/nazir-hussain) | [<img src="https://github.com/nazir-hussain
 /nazir-hussain/blob/master/icon/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nazir-hussain/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/master/icon/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/nazir-hussain) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/master/icon/Gmail.svg" alt="Gmail logo" height="32">](mailto:nhussainkhan10@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| -->
 
  
 <!-- TODO: Make technologies links takes you to repositories --> 
