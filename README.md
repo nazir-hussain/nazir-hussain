@@ -38,7 +38,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
   
-## Hobbies!!
+## <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/hobies.png" height="32px"> Hobbies!!
 
 * Hiking
 * Camping
