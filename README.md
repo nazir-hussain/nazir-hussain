@@ -31,12 +31,30 @@
 <img align="right" alt="Nazir-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56648155/147669054-84544ffd-5a37-4b33-aa23-4810eaa8d33b.png">
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!!][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: nhussainkhan10@gmail.com.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
+  
+## Hobbies!!
+
+* Hiking
+* Camping
+* Traveling
+* Cooking
+* Learning a new language.
+  
+  
+## :1st_place_medal: Some of my acheivements:
+
+* All India Coastal Trekking Camp at Puri, Bhuvaneswar, Odisha. Through <b>NCC</b>
+* Academic or athletic awards.
+* Organizing committee member of college Annual fest.
+* Participated in various <b>NSS</b> camps organized by the college.
+* Participated in various events at school and colleges and won prizes and certificates.
+
 
 ## Connect with me: <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Handshake.gif" height="32px">
 
