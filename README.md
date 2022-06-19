@@ -48,7 +48,7 @@
 <a href = "https://twitter.com/Bugra_2426"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> -->
  
  
- | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/thenazirhussain/) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Im_NazirHussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/youtube%20logo_icon.svg" alt="Youtube Logo" width="30">](https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nazir-hussain/)| [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/github_icon.svg" alt="Github logo" width="34">](https://github.com/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/NazirHussain?hr_r=1) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Gmail.svg" alt="Gmail logo" height="32">](nhussainkhan10@gmail.com)
+ | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/thenazirhussain/) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Im_NazirHussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/youtube%20logo_icon.svg" alt="Youtube Logo" width="30">](https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/nazir-hussain/)| [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/github_icon.svg" alt="Github logo" width="34">](https://github.com/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/NazirHussain?hr_r=1) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/nazir-hussain) | [<img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/Gmail.svg" alt="Gmail logo" height="32">](mailto:nhussainkhan10@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
@@ -106,11 +106,12 @@
 
 Hack and Code is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 <br >
+ 
 </details>
 
 [website]: https://chillthemind.blogspot.com
 [course]: https://thenazirhussain.blogspot.com
-[twitter]: https://twitter.com/Nazir__Hussain
+[twitter]: https://twitter.com/Im_NazirHussain
 [youtube]: https://www.youtube.com/channel/UCI7KMCcJT0OwWTClE9NDT3Q
 [instagram]: https://www.instagram.com/nazir__hassan
 [linkedin]: https://linkedin.com/in/thenazirhussain
