@@ -129,6 +129,14 @@ Hack and Code is a youtube channel for learning Web/Mobile development, coding a
 <img alt=" NAZIR HUSSAIN Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nazir-hussain&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
 </p>
 <!--END_SECTION:waka--> 
+  
+  
+<!--   Random Dev Quote -->
+## ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--   Random Dev Quote -->
+
+  
 
 ## Crack A Joke (Quite Literally)<img src="https://media1.tenor.com/images/d787d33adb362e8a7cfe38aa37194c20/tenor.gif?itemid=9682311" height="40px">
 
