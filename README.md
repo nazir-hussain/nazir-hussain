@@ -38,13 +38,13 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
   
-## <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/hobies.png" height="32px"> Hobbies!!
+## <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/hobies.png" height="22px"> Hobbies!!
 
-* Hiking
-* Camping
-* Traveling
-* Cooking
-* Learning a new language.
+* Hiking <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/hiking.png" height="22px">
+* Camping <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/camping.png" height="22px">
+* Traveling <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/traveling.png" height="22px">
+* Cooking <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/cooking.png" height="22px">
+* Learning a new language. <img src="https://github.com/nazir-hussain/nazir-hussain/blob/main/icon/lerning.png" height="22px">
   
   
 ## :1st_place_medal: Some of my acheivements:
