@@ -18,7 +18,7 @@
 
 
 <!-- [![Website](https://img.shields.io/website?label=https://chillthemind.blogspot.com&style=for-the-badge&url=https%3A%2F%2FNazir__Hussain.com)](https://chillthemind.blogspot.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nazir__Hussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Im_NazirHussain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNazir__Hussain&screen_name=Nazir__Hussain)
  -->
 # About me  <img src="https://user-images.githubusercontent.com/56648155/174447997-8caf219e-05e1-4985-ace2-123029df2774.gif" height="30px">
 <ul>
